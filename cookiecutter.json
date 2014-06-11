@@ -1,0 +1,9 @@
+{
+    "author": "Your name",
+    "autor_email": "Your email",
+    "home_page": "http://yourproject.com",
+    "module_name": "Name of the Python module",
+    "repo_group": "openstack",
+    "repo_name": "Name of your repo",
+    "project_short_description": "Short Description"
+}

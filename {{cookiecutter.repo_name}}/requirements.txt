@@ -1,0 +1,6 @@
+pbr>=0.5.21,<1.0
+six>=1.4.1
+oslo.config>=1.2.0
+
+# NOTE(flaper87): Until Marconi is released
+-e git+https://github.com/openstack/marconi#egg=marconi
